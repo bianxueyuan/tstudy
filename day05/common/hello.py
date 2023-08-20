@@ -1,4 +1,4 @@
-print("hello world tester")
+print("hello tester")
 
 
 print("tester")
