@@ -1,4 +1,4 @@
-print("hello world master")
+print("hello world tester")
 
 
-print("master push")
+print("tester")
